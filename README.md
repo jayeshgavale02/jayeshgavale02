@@ -3,12 +3,6 @@
 ## About Me 👨‍💻
 Hello! I'm **Jayesh Sanajay Gavale**, a passionate Full Stack Developer specializing in the **MERN** stack (MongoDB, ExpressJS, ReactJS, NodeJS) with a strong command of **JavaScript** and **Python**. I enjoy building web applications, solving complex problems, and continuously expanding my knowledge in software development. 🚀
 
-### 🔧 Projects I've worked on:
-- 🧑‍🏫 A **QR code-based Attendance System** for students and teachers.
-- 🔐 A **Password Manager** using AES encryption for secure password management.
-- 📚 A **Library Management System** with advanced book inventory and user management.
-- 🎓 A **Skill Sharing Platform** with online sessions and payment integration.
-
 I also participate in hackathons 🏆 and love collaborating on innovative projects. My focus is on writing clean, efficient code and building user-friendly solutions. 💡 Currently, I'm working on a **real-time video processing project** to detect and blur specific scenes in movies. 🎥
 
 Feel free to check out my repositories or get in touch! 😊
