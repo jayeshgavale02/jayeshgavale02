@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ## About Me 👨‍💻
-Hello! I'm **Jayesh Sanajay Gavale**, a passionate Full Stack Developer specializing in the **MERN** stack (MongoDB, ExpressJS, ReactJS, NodeJS) with a strong command of **JavaScript**. I enjoy building web applications, solving complex problems, and continuously expanding my knowledge in software development. 🚀
+Hello! I'm **Jayesh Sanajay Gavale**, a passionate Full Stack Developer specializing in the **MERN** stack (ReactJS, Php, NodeJS, MongoDB, ExpressJS) with a strong command of **JavaScript And Php**. I enjoy building web applications, solving complex problems, and continuously expanding my knowledge in software development. 🚀
 
 I also participate in hackathons 🏆 and love collaborating on innovative projects. My focus is on writing clean, efficient code and building user-friendly solutions.💡 
 Feel free to check out my repositories or get in touch! 😊
